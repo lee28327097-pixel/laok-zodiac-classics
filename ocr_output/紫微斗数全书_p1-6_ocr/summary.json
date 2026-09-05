@@ -1,0 +1,16 @@
+[
+  {
+    "input": "D:\\各种软件\\826\\紫微斗数\\紫微斗数全书-.pdf",
+    "pages": 6,
+    "text_layer_pages": 0,
+    "total_lines": 173,
+    "low_confidence_lines": 24,
+    "outputs": {
+      "txt": "C:/tmp/realocr2\\紫微斗数全书-.txt",
+      "json": "C:/tmp/realocr2\\紫微斗数全书-.json",
+      "md": "C:/tmp/realocr2\\紫微斗数全书-.md",
+      "searchable_pdf": "C:/tmp/realocr2\\紫微斗数全书-_searchable.pdf"
+    },
+    "cache_dir": "C:/tmp/realocr2\\.ocr_cache"
+  }
+]
