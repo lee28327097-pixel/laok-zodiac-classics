@@ -1,0 +1,31 @@
+# ===== 隐私与安全 =====
+*token*
+*.key
+*.pem
+.env
+credentials.json
+secrets.*
+
+# ===== 系统缓存 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 临时文件 =====
+*.tmp
+*.temp
+~$*
+
+# ===== 大型媒体（避免撑爆仓库）=====
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.psd
+*.ai
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.venv/
+venv/
